@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+.instagram_shots img {
+	border: solid 4px white;
+	margin: 2px;
+}
+
+.instagram_shots .selected {
+	border: solid 4px #1E8CBE !important;
+}
